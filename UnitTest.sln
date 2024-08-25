@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{D85AE62B-26C1-4920-A755-31E5AC68FEF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTest", "xUnitTest\xUnitTest.csproj", "{AC17C22D-495B-4BB0-A3E5-CA69B01B765D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalAPI", "ExternalAPI\ExternalAPI.csproj", "{C8137C82-6D83-4202-A7D7-071F737BA716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85AE62B-26C1-4920-A755-31E5AC68FEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85AE62B-26C1-4920-A755-31E5AC68FEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85AE62B-26C1-4920-A755-31E5AC68FEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85AE62B-26C1-4920-A755-31E5AC68FEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC17C22D-495B-4BB0-A3E5-CA69B01B765D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC17C22D-495B-4BB0-A3E5-CA69B01B765D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC17C22D-495B-4BB0-A3E5-CA69B01B765D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC17C22D-495B-4BB0-A3E5-CA69B01B765D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8137C82-6D83-4202-A7D7-071F737BA716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8137C82-6D83-4202-A7D7-071F737BA716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8137C82-6D83-4202-A7D7-071F737BA716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8137C82-6D83-4202-A7D7-071F737BA716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C677FAB0-FCD9-46A5-8184-55C2FEB12CE5}
+	EndGlobalSection
+EndGlobal
